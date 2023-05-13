@@ -185,42 +185,6 @@
       "image_url": "https://images.unsplash.com/photo-1565641287189-b76a4c3c5460",
       "temperature_type": "Temperate",
       "flora_type": "Coniferous Trees"
-    },
-    {
-      "title": "Trolltunga",
-      "image_url": "https://images.unsplash.com/photo-1594471143578-215f0b9b5b13",
-      "temperature_type": "Cold",
-      "flora_type": "Arctic Tundra Plants"
-    },
-    {
-      "title": "Zion National Park",
-      "image_url": "https://images.unsplash.com/photo-1612759267971-cc006e65eab7",
-      "temperature_type": "Temperate",
-      "flora_type": "Desert Plants"
-    },
-    {
-      "title": "Mount Everest",
-      "image_url": "https://images.unsplash.com/photo-1618860732276-ec82002c7d94",
-      "temperature_type": "Cold",
-      "flora_type": "Alpine Plants"
-    },
-    {
-      "title": "Great Barrier Reef",
-      "image_url": "https://images.unsplash.com/photo-1499865247565-67f0300d4e69",
-      "temperature_type": "Tropical",
-      "flora_type": "Coral"
-    },
-    {
-      "title": "Jiuzhaigou Valley",
-      "image_url": "https://images.unsplash.com/photo-1610945452919-4b6f905394d7",
-      "temperature_type": "Cold",
-      "flora_type": "Coniferous Trees"
-    },
-    {
-      "title": "Namib Desert",
-      "image_url": "https://images.unsplash.com/photo-1484132329804-7a71c7748cb5",
-      "temperature_type": "Hot",
-      "flora_type": "Desert Plants"
     }
   ]
 }
