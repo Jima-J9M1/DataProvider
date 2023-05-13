@@ -133,12 +133,6 @@
       "flora_type": "Grasslands"
     },
     {
-      "title": "Banff National Park",
-      "image_url": "https://images.unsplash.com/photo-1555636091-131e31c16e4c",
-      "temperature_type": "Cold",
-      "flora_type": "Coniferous Trees"
-    },
-    {
       "title": "Death Valley National Park",
       "image_url": "https://images.unsplash.com/photo-1538517552576-0bfc8ca0d4a2",
       "temperature_type": "Hot",
