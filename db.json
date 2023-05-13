@@ -179,12 +179,6 @@
       "image_url": "https://images.unsplash.com/photo-1515537102973-cc251b71fa07",
       "temperature_type": "Tropical",
       "flora_type": "Endemic Species"
-    },
-    {
-      "title": "Zhangjiajie National Forest Park",
-      "image_url": "https://images.unsplash.com/photo-1565641287189-b76a4c3c5460",
-      "temperature_type": "Temperate",
-      "flora_type": "Coniferous Trees"
     }
   ]
 }
