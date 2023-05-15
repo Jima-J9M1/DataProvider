@@ -2,37 +2,37 @@
   "locations": [
     {
       "title": "Sahara Desert",
-      "image_url": "https://images.unsplash.com/photo-1531968753448-aae67fa8f7d4",
+      "image_url": "https://cdn.pixabay.com/photo/2016/10/17/19/37/dune-1748462_960_720.jpg",
       "temperature_type": "Hot",
       "flora_type": "Desert Plants"
     },
     {
       "title": "Amazon Rainforest",
-      "image_url": "https://images.unsplash.com/photo-1533929726837-6086e5d1d257",
+      "image_url": "https://cdn.pixabay.com/photo/2020/04/21/18/42/thailand-5074246_960_720.jpg",
       "temperature_type": "Tropical",
       "flora_type": "Rainforest Plants"
     },
     {
       "title": "Everest Base Camp",
-      "image_url": "https://images.unsplash.com/photo-1596496148303-d9f31fb74de8",
+      "image_url": "https://cdn.pixabay.com/photo/2019/09/15/07/31/everest-base-camp-4477525_960_720.jpg",
       "temperature_type": "Cold",
       "flora_type": "Alpine Plants"
     },
     {
       "title": "Great Barrier Reef",
-      "image_url": "https://images.unsplash.com/photo-1586087767486-5bbfffa7b42a",
+      "image_url": "https://cdn.pixabay.com/photo/2014/02/08/12/19/great-barrier-reef-261713_960_720.jpg",
       "temperature_type": "Warm",
       "flora_type": "Coral"
     },
     {
       "title": "Yellowstone National Park",
-      "image_url": "https://images.unsplash.com/photo-1579825642586-6701a79fe728",
+      "image_url": "https://cdn.pixabay.com/photo/2021/10/21/14/20/yellowstone-national-park-6729237_960_720.jpg",
       "temperature_type": "Cool",
       "flora_type": "Coniferous Trees"
     },
     {
       "title": "Atacama Desert",
-      "image_url": "https://images.unsplash.com/photo-1591423316907-f9d4e9d4e335",
+      "image_url": "https://cdn.pixabay.com/photo/2014/07/14/19/40/atacama-393339_960_720.jpg",
       "temperature_type": "Hot",
       "flora_type": "Cactus"
     },
@@ -44,13 +44,13 @@
     },
     {
       "title": "Iguazu Falls",
-      "image_url": "https://images.unsplash.com/photo-1590365548892-26a3cf09e527",
+      "image_url": "https://cdn.pixabay.com/photo/2019/10/29/17/56/waterfall-4587690_960_720.jpg",
       "temperature_type": "Warm",
       "flora_type": "Rainforest Plants"
     },
     {
       "title": "Antarctica",
-      "image_url": "https://images.unsplash.com/photo-1482030904811-69a0d05093b1",
+      "image_url": "https://cdn.pixabay.com/photo/2013/02/08/16/55/iceberg-79389_960_720.jpg",
       "temperature_type": "Freezing",
       "flora_type": "Lichens and Mosses"
     },
@@ -140,7 +140,7 @@
     },
     {
       "title": "Giant's Causeway",
-      "image_url": "https://images.unsplash.com/photo-1527939760524-2db86110e9e5",
+      "image_url": "https://images.unsplash.com/photo-1527939760524-2db86110e9e5.jpg",
       "temperature_type": "Cool",
       "flora_type": "Coastal Plants"
     },
