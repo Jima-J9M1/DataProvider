@@ -38,7 +38,7 @@
     },
     {
       "title": "Kilimanjaro",
-      "image_url": "https://images.unsplash.com/photo-1503466025319-b7a2bedf8fe6",
+      "image_url": "https://cdn.pixabay.com/photo/2015/11/05/23/41/mount-kilimanjaro-1025146_640.jpg",
       "temperature_type": "Cold",
       "flora_type": "Alpine Plants"
     },
@@ -56,121 +56,121 @@
     },
     {
       "title": "Yosemite National Park",
-      "image_url": "https://images.unsplash.com/photo-1469746397088-2b6ca4f08e70",
+      "image_url": "https://cdn.pixabay.com/photo/2016/11/21/16/59/yosemite-national-park-1846463_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Sequoia Trees"
     },
 {
       "title": "Machu Picchu",
-      "image_url": "https://images.unsplash.com/photo-1504412903950-3b6bc2ca45b1",
+      "image_url": "https://cdn.pixabay.com/photo/2017/09/21/21/35/machu-picchu-2773629_640.jpg",
       "temperature_type": "Mild",
       "flora_type": "Andean Cloud Forest"
     },
     {
       "title": "Victoria Falls",
-      "image_url": "https://images.unsplash.com/photo-1594854643911-14400d7a0d3e",
+      "image_url": "https://cdn.pixabay.com/photo/2021/02/01/19/50/waterfalls-5971816_640.jpg",
       "temperature_type": "Warm",
       "flora_type": "Rainforest Plants"
     },
     {
       "title": "Grand Canyon",
-      "image_url": "https://images.unsplash.com/photo-1596813960291-45aeeb6c6b28",
+      "image_url": "https://cdn.pixabay.com/photo/2015/07/14/03/39/grand-canyon-844137_640.jpg",
       "temperature_type": "Hot",
       "flora_type": "Cacti"
     },
     {
       "title": "Galapagos Islands",
-      "image_url": "https://images.unsplash.com/photo-1600660510155-e42c271e63b3",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/19/13/13/galapagos-islands-2419239_960_720.jpg",
       "temperature_type": "Tropical",
       "flora_type": "Endemic Species"
     },
     {
       "title": "Denali National Park",
-      "image_url": "https://images.unsplash.com/photo-1530595467837-8e29ab83d12f",
+      "image_url": "https://cdn.pixabay.com/photo/2016/08/27/12/44/denali-national-park-1624102_640.jpg",
       "temperature_type": "Cold",
       "flora_type": "Tundra Plants"
     },
     {
       "title": "Plitvice Lakes National Park",
-      "image_url": "https://images.unsplash.com/photo-1569505034451-0cfa8683d1ec",
+      "image_url": "https://cdn.pixabay.com/photo/2013/12/19/17/15/plitvice-lakes-230960_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Deciduous Trees"
     },
     {
       "title": "Tongariro National Park",
-      "image_url": "https://images.unsplash.com/photo-1519815940806-c983a97c17f3",
+      "image_url": "https://cdn.pixabay.com/photo/2017/06/19/09/03/tongariro-national-park-2418715_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Alpine Plants"
     },
     {
       "title": "Redwood National and State Parks",
-      "image_url": "https://images.unsplash.com/photo-1600575069281-85c68d6fa145",
+      "image_url": "https://cdn.pixabay.com/photo/2020/05/04/16/01/redwoods-5129698_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Redwood Trees"
     },
     {
       "title": "Uluru",
-      "image_url": "https://images.unsplash.com/photo-1501640837-7f3fc1eb1e7e",
+      "image_url": "https://cdn.pixabay.com/photo/2015/12/04/09/34/uluru-1076323_640.jpg",
       "temperature_type": "Hot",
       "flora_type": "Desert Plants"
     },
     {
       "title": "Tikal National Park",
-      "image_url": "https://images.unsplash.com/photo-1577914992483-fc7afcdf0ab3",
+      "image_url": "https://cdn.pixabay.com/photo/2020/03/19/09/39/guatemala-4946925_640.jpg",
       "temperature_type": "Tropical",
       "flora_type": "Rainforest Plants"
     },
 {
       "title": "Lake Tahoe",
-      "image_url": "https://images.unsplash.com/photo-1596499820776-e1d7f36f6f4c",
+      "image_url": "https://cdn.pixabay.com/photo/2016/08/13/18/34/lake-tahoe-1591339_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Coniferous Trees"
     },
     {
       "title": "Serengeti National Park",
-      "image_url": "https://images.unsplash.com/photo-1536746784239-7b1f0087ab75",
+      "image_url": "https://cdn.pixabay.com/photo/2016/11/21/12/38/nature-1845134_640.jpg",
       "temperature_type": "Tropical",
       "flora_type": "Grasslands"
     },
     {
       "title": "Death Valley National Park",
-      "image_url": "https://images.unsplash.com/photo-1538517552576-0bfc8ca0d4a2",
+      "image_url": "https://cdn.pixabay.com/photo/2016/04/02/20/17/death-valley-1303573_640.jpg",
       "temperature_type": "Hot",
       "flora_type": "Desert Plants"
     },
     {
       "title": "Giant's Causeway",
-      "image_url": "https://images.unsplash.com/photo-1527939760524-2db86110e9e5.jpg",
+      "image_url": "https://cdn.pixabay.com/photo/2017/08/02/21/51/giants-causeway-2573628_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Coastal Plants"
     },
     {
       "title": "Sagano Bamboo Forest",
-      "image_url": "https://images.unsplash.com/photo-1507807021633-cf9b12e1cf67",
+      "image_url": "https://cdn.pixabay.com/photo/2014/11/27/08/48/bamboo-forest-547293_1280.jpg",
       "temperature_type": "Cool",
       "flora_type": "Bamboo"
     },
     {
       "title": "Uluru-Kata Tjuta National Park",
-      "image_url": "https://images.unsplash.com/photo-1519677100204-a8dd06cd80c9",
+      "image_url": "https://cdn.pixabay.com/photo/2022/07/15/15/31/ayers-rock-7323415_640.jpg",
       "temperature_type": "Hot",
       "flora_type": "Desert Plants"
     },
     {
       "title": "Niagara Falls",
-      "image_url": "https://images.unsplash.com/photo-1595421586823-6b9d38a64d09",
+      "image_url": "https://cdn.pixabay.com/photo/2016/08/13/07/20/niagara-1590345_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Riverine Plants"
     },
     {
       "title": "Plitvice Lakes National Park",
-      "image_url": "https://images.unsplash.com/photo-1516879296944-ef50c0b3ad5a",
+      "image_url": "https://cdn.pixabay.com/photo/2017/08/16/08/07/plivicer-lakes-2646781_640.jpg",
       "temperature_type": "Cool",
       "flora_type": "Deciduous Trees"
     },
     {
       "title": "Galapagos Islands",
-      "image_url": "https://images.unsplash.com/photo-1515537102973-cc251b71fa07",
+      "image_url": "https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_640.jpg",
       "temperature_type": "Tropical",
       "flora_type": "Endemic Species"
     }
